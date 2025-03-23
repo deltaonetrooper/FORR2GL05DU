@@ -1,2 +1,7 @@
 # FORR2GL05DU
- Í þessu eru verkefni úr Leikjaforritun áfanganum í Tækniskólanum
+## Verkefni 1 Video
+[Unit 1](https://youtu.be/mAr1zb1M1ug)
+[Unit 2](https://youtu.be/-PTCBGRMQ4A)
+
+## Verkefni 2 Video
+[Video](https://youtu.be/sEbuns6QJTo)
