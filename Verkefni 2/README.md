@@ -5,3 +5,6 @@
 
 ### Video Linkur
 [Hér](https://youtu.be/rTKEnfxiGUw)
+
+### WebGL Linkur
+[Hér](https://play.unity.com/en/games/fc843f05-fe3f-4995-965f-336ff5b3ca58/ari-leikur)
