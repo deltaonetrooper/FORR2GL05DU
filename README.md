@@ -6,3 +6,6 @@
 ## Verkefni 2
 [Video](https://youtu.be/sEbuns6QJTo)
 [WebGL](https://play.unity.com/en/games/fc843f05-fe3f-4995-965f-336ff5b3ca58/ari-leikur)
+
+## Verkefni 3
+[Video](https://youtu.be/NnC95NYkmTI)
