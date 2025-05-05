@@ -9,3 +9,6 @@
 
 ## Verkefni 3
 [Video](https://youtu.be/NnC95NYkmTI)
+
+## Verkefni 4
+[Hér](https://youtu.be/5wlOLhW8-W4)
