@@ -12,3 +12,6 @@
 
 ## Verkefni 4
 [Hér](https://youtu.be/5wlOLhW8-W4)
+
+## Verkefni 5
+[Hér](https://youtu.be/bZTnUf2Dms4)
